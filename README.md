@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.18939166
 # Autonomous Science Research
 
 Research frameworks exploring the future of autonomous scientific discovery and AI-driven research infrastructure.
