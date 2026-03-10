@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Autonomous Science Research
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Pande
+    given-names: Nabal Kishore
+    orcid: https://orcid.org/0009-0007-3325-9966
+repository-code: https://github.com/NabalKishorePande/autonomous-science-research
+abstract: Conceptual research frameworks for autonomous science systems, AI-driven R&D governance, and discovery economy models.
+keywords:
+  - autonomous science
+  - self-driving laboratories
+  - AI-driven research
+  - research governance
+  - discovery economy
+license: MIT
